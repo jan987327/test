@@ -1,6 +1,0 @@
-{{#user}}
-Name: Janvi Shankar
-Skills: HTML, CSS, JS, C, C++, Python
-Email: janvi.shankar29@gmail.com
-{{/user}}
-
